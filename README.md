@@ -27,6 +27,9 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
 
 ## Discontinued / Rest In Peace (R.I.P.) Rubies 
 
+- [IronRuby](http://ironruby.net), [:octocat:](https://github.com/IronLanguages) - a ruby interpreter built on top of the Microsoft .NET Common Language Runtime (CLR)
+- [MacRuby :octocat:](https://github.com/MacRuby) - a ruby interpreter built on top of Apple's Objective-C/Cocoa library
+- [MagLev](http://maglev.github.io), [:octocat:](https://github.com/MagLev) - a ruby interpreter built on top of the GemStone/S 3.1 Virtual Machine (VM); note to run MagLev you need a commercial GemStone/S Server license
 - [Ruby Enterprise Edition (REE)](http://www.rubyenterpriseedition.com) - builds on top of MRI Rubies, versions 1.8.X and later
 
 
@@ -44,9 +47,9 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
 
 - [Mirah](http://www.mirah.org), [:octocat:](https://github.com/mirah) - formerly known as Duby; compiles to Java bytecode; no (extra) runtime library required
 
-## Ruby-to-Objective-C
+## Ruby-to-Objective-C/Cocoa
 
-- [RubyMotion](http://www.rubymotion.com) - commercial compiler for Apple iOS/Coca
+- [RubyMotion](http://www.rubymotion.com) - commercial compiler for Apple iOS/Cocoa
 
 ## Ruby-to-Erlang
 
