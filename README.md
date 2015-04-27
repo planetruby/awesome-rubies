@@ -96,6 +96,12 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
 - [SDoc :octocat:](https://github.com/voloko/sdoc) - RDoc generator to build searchable HTML documentation for Ruby code
 - [RDoc :octocat:](https://github.com/rdoc) - RDoc produces HTML and online documentation for Ruby code 
 
+## Ruby Linter / Code Checker / Static Code Analyzer
+
+- [RuboCop :octocat:](https://github.com/bbatsov/rubocop) - a Ruby static code analyzer
+- [reek :octocat:](https://github.com/troessner/reek) - code smell detector for Ruby
+
+
 ## Meta
 
 **License**
