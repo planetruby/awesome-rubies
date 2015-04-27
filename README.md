@@ -55,6 +55,12 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
 
 - [Elixir](http://elixir-lang.org) - Ruby-inspired syntax; a dynamic, functional language for the Erlang VM compiles to BEAM instructions (bytecode)  
 
+## Ruby Version Manager
+
+- [rvm](https://rvm.io), [:octocat:](https://github.com/rvm) - Ruby enVironment Manager; 27,000 lines of shell scripts to manage your rubies (overwrites your cd)
+- [rbenv :octocat:](https://github.com/sstephenson/rbenv) - intercepts Ruby commands using shim executables added into your $PATH
+- [chruby :octocat:](https://github.com/postmodern/chruby) - changes the current Ruby
+
 
 ## Meta
 
