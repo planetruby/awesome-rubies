@@ -67,6 +67,10 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
 - [Ruby Performance Optimization: Why Ruby Is Slow, and How to Fix It](https://pragprog.com/book/adrpo/ruby-performance-optimization) by Alexander Dymo; The Pragmatic Programmers 
 - [The Ruby Bibliography](http://rubybib.org), [:octocat:](https://github.com/rubybib)
 
+## Ruby Quick References / Cheat Sheets
+
+- [Ruby QuickRef](http://www.zenspider.com/Languages/Ruby/QuickRef.html) - Language, Standard Library, Tools
+- [Learn Ruby in Y Minutes](http://learnxinyminutes.com/docs/ruby), [:octocat:](https://github.com/adambard/learnxinyminutes-docs) - A whirlwind tour of Ruby - learnruby.rb
 
 
 
