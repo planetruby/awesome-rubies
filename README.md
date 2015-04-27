@@ -90,7 +90,11 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
 - [seattlerb/ruby_parser (RP) :octocat:](https://github.com/seattlerb/ruby_parser) - a ruby parser written in ruby (using racc -- which does by default use a C extension). RP's output is the same as ParseTree's output: s-expressions using ruby's arrays and base types
 - [whitequark/parser :octocat:](https://github.com/whitequark/parser) - a ruby parser written in ruby;  also includes an "unparser" to produce equivalent source code from the parser's Abstract Syntax Tree (AST)s
 
+## Ruby Documentation Generators
 
+- [YARD](http://yardoc.org), [:octocat:](https://github.com/lsegal/yard) - Yay! A Ruby Documentation Tool 
+- [SDoc :octocat:](https://github.com/voloko/sdoc) - RDoc generator to build searchable HTML documentation for Ruby code
+- [RDoc :octocat:](https://github.com/rdoc) - RDoc produces HTML and online documentation for Ruby code 
 
 ## Meta
 
