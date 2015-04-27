@@ -4,12 +4,19 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
 
 ---
 
-[ANNOUNCEMENT] Looking for awesome Ruby events (meetups, conferences, camps, etc.) from around the world)? See the [planetruby/awesome-events](https://github.com/planetruby/awesome-events) list. 
+[ANNOUNCEMENT] Looking for awesome Ruby events (meetups, conferences, camps, etc.) from around the world)? See the [Awesome Events List @ Planet Ruby](https://github.com/planetruby/awesome-events) list. 
 
 ---
 
 ## Major Rubies
 
+- [Ruby](https://www.ruby-lang.org), [:octocat:](https://github.com/ruby)- also known as Matz's Ruby Interpreter (MRI) or CRuby; using the YARV (Yet another Ruby VM) since version 1.9 
+   - 2014: 2.2  (Dec/24)
+   - 2013: 2.1  (Dec/24)
+   - 2012: 2.0  (Feb/24, 2013)
+- [JRuby](http://jruby.org), [:octocat:](https://github.com/jruby) - Ruby on the Java Virtual Machine (JVM)
+   - Upcoming: v9.0.0.0
+   - 2014: v1.7.x
 
 ## Minor / Upcoming Rubies
 
