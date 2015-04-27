@@ -61,6 +61,14 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
 - [rbenv :octocat:](https://github.com/sstephenson/rbenv) - intercepts Ruby commands using shim executables added into your $PATH
 - [chruby :octocat:](https://github.com/postmodern/chruby) - changes the current Ruby
 
+## Ruby Language Research, Papers & Books
+
+- [Ruby under a Microscope - An Illustrated Guide to Ruby Internals](http://www.nostarch.com/rum) by Pat Shaughnessy; No Starch Press; 360 pages; Nov 2013
+- [Ruby Performance Optimization: Why Ruby Is Slow, and How to Fix It](https://pragprog.com/book/adrpo/ruby-performance-optimization) by Alexander Dymo; The Pragmatic Programmers 
+- [The Ruby Bibliography](http://rubybib.org), [:octocat:](https://github.com/rubybib)
+
+
+
 
 ## Meta
 
