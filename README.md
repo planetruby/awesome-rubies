@@ -67,10 +67,19 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
 - [Ruby Performance Optimization: Why Ruby Is Slow, and How to Fix It](https://pragprog.com/book/adrpo/ruby-performance-optimization) by Alexander Dymo; The Pragmatic Programmers 
 - [The Ruby Bibliography](http://rubybib.org), [:octocat:](https://github.com/rubybib)
 
+## Ruby Benchmarks & Tests
+
+- [RubyBench](http://rubybench.org), [:octocat:](https://github.com/ruby-bench) - Ruby Releases Benchmarks
+
 ## Ruby Quick References / Cheat Sheets
 
 - [Ruby QuickRef](http://www.zenspider.com/Languages/Ruby/QuickRef.html) - Language, Standard Library, Tools
 - [Learn Ruby in Y Minutes](http://learnxinyminutes.com/docs/ruby), [:octocat:](https://github.com/adambard/learnxinyminutes-docs) - A whirlwind tour of Ruby - learnruby.rb
+
+## Ruby Parser / Unparser
+
+- [seattlerb/ruby_parser (RP) :octocat:](https://github.com/seattlerb/ruby_parser) - a ruby parser written in ruby (using racc -- which does by default use a C extension). RP's output is the same as ParseTree's output: s-expressions using ruby's arrays and base types
+- [whitequark/parser :octocat:](https://github.com/whitequark/parser) - a ruby parser written in ruby;  also includes an "unparser" to produce equivalent source code from the parser's Abstract Syntax Tree (AST)s
 
 
 
