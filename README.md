@@ -4,7 +4,7 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
 
 ---
 
-[ANNOUNCEMENT] Looking for awesome Ruby events (meetups, conferences, camps, etc.) from around the world)? See the [Awesome Events List @ Planet Ruby](https://github.com/planetruby/awesome-events) list. 
+[ANNOUNCEMENT] Looking for awesome Ruby events (meetups, conferences, camps, etc.) from around the world)? See the [Awesome Events List @ Planet Ruby](https://github.com/planetruby/awesome-events). 
 
 ---
 
@@ -17,8 +17,17 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
 - [JRuby](http://jruby.org), [:octocat:](https://github.com/jruby) - Ruby on the Java Virtual Machine (JVM)
    - Upcoming: v9.0.0.0
    - 2014: v1.7.x
+- [mruby](http://www.mruby.org), [:octocat:](https://github.com/mruby) - lightweight Ruby; designed for linking and embedding within your application
+- [Rubinius (rbx)](http://rubini.us), [:octocat:](https://github.com/rubinius) - designed for concurrency; uses a low-pause generational garbage collector and LLVM-based just-in-time (JIT) native machine code compiler; core library and tools coded in Ruby
 
 ## Minor / Upcoming Rubies
+
+- [Topaz](http://topazruby.com), [:octocat:](https://github.com/topazproject) - Ruby coded in Python on top of RPython (the toolchain that powers PyPy) 
+- [GoRuby :octocat:](https://github.com/goruby) - Ruby coded in Go
+
+## Discontinued / Rest In Peace (R.I.P.) Rubies 
+
+- [Ruby Enterprise Edition (REE)](http://www.rubyenterpriseedition.com) - builds on top of MRI Rubies, versions 1.8.X and later
 
 
 ## Ruby-to-JavaScript
@@ -33,7 +42,7 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
 
 ## Ruby-to-Java
 
-- [Mirah](http://www.mirah.org), [:octocat](https://github.com/mirah) - formerly known as Duby; compiles to Java bytecode; no (extra) runtime library required
+- [Mirah](http://www.mirah.org), [:octocat:](https://github.com/mirah) - formerly known as Duby; compiles to Java bytecode; no (extra) runtime library required
 
 ## Ruby-to-Objective-C
 
