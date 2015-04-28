@@ -110,10 +110,19 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
 
 ## Ruby Gems / Libraries
 
-- [RubyGems](https://rubygems.org), [:octocat:](https://github.com/rubygems)
+- [RubyGems](https://rubygems.org), [:octocat:](https://github.com/rubygems) - 100,000+ Gems
 - [Awesome Ruby :octocat:](https://github.com/markets/awesome-ruby)
 - [Ruby Gem of the Week Series @ Planet Ruby](http://planetruby.github.io/gems), [:octocat:](https://github.com/planetruby/gems)
+- [Trending Ruby Projects @ GitHub](https://github.com/trending?l=ruby) - Today, This Week, This Month
+- [Alltime Starred Ruby Projects @ GitHub](https://github.com/search?utf8=✓&q=language%3ARuby&type=Repositories&s=stars)
 - [Ruby Toolbox](https://www.ruby-toolbox.com)
+
+## Ruby Community (Events, Questions & Answers, Announcements, etc.)
+
+- [Ruby @ Reddit](http://www.reddit.com/r/ruby)
+- [Awesome Ruby Events :octocat:](https://github.com/planetruby/awesome-events) - meetups, conferences, camps, etc. from around the world 
+- [Planet Ruby](http://planetruby.herokuapp.com), [:octocat:](https://github.com/planetruby/planet) - online news reader about all things ruby
+
 
 ## Meta
 
