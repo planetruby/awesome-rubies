@@ -102,6 +102,10 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
 - [RuboCop :octocat:](https://github.com/bbatsov/rubocop) - a Ruby static code analyzer
 - [reek :octocat:](https://github.com/troessner/reek) - code smell detector for Ruby
 
+## Ruby Binary Packagers
+
+- [Traveling Ruby](http://phusion.github.io/traveling-ruby), [:octocat:](https://github.com/phusion/traveling-ruby) - self-contained, portable Ruby binaries
+- [Omnibus :octocat:](https://github.com/chef/omnibus) - mini language (that is, domain-specific language (DSL) for installers (that is, binary packages)
 
 ## Meta
 
