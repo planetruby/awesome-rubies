@@ -19,6 +19,7 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
    - 2014: v1.7.x
 - [mruby](http://www.mruby.org), [:octocat:](https://github.com/mruby) - lightweight Ruby; designed for linking and embedding within your application
 - [Rubinius (rbx)](http://rubini.us), [:octocat:](https://github.com/rubinius) - designed for concurrency; uses a low-pause generational garbage collector and LLVM-based just-in-time (JIT) native machine code compiler; core library and tools coded in Ruby
+- [MagLev](http://maglev.github.io), [:octocat:](https://github.com/MagLev) - a ruby interpreter built on top of the GemStone/S 3.1 Virtual Machine (VM)
 
 ## Minor / Upcoming Rubies
 
@@ -29,7 +30,6 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
 
 - [IronRuby](http://ironruby.net), [:octocat:](https://github.com/IronLanguages) - a ruby interpreter built on top of the Microsoft .NET Common Language Runtime (CLR)
 - [MacRuby :octocat:](https://github.com/MacRuby) - a ruby interpreter built on top of Apple's Objective-C/Cocoa library
-- [MagLev](http://maglev.github.io), [:octocat:](https://github.com/MagLev) - a ruby interpreter built on top of the GemStone/S 3.1 Virtual Machine (VM); note to run MagLev you need a commercial GemStone/S Server license
 - [Ruby Enterprise Edition (REE)](http://www.rubyenterpriseedition.com) - builds on top of MRI Rubies, versions 1.8.X and later
 
 
