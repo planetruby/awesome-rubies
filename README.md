@@ -19,12 +19,12 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
    - 2014: v1.7.x
 - [mruby](http://www.mruby.org), [:octocat:](https://github.com/mruby) - lightweight Ruby; designed for linking and embedding within your application
 - [Rubinius (rbx)](http://rubini.us), [:octocat:](https://github.com/rubinius) - designed for concurrency; uses a low-pause generational garbage collector and LLVM-based just-in-time (JIT) native machine code compiler; core library and tools coded in Ruby
-- [MagLev](http://maglev.github.io), [:octocat:](https://github.com/MagLev) - a ruby interpreter built on top of the GemStone/S 3.1 Virtual Machine (VM)
 
 ## Minor / Upcoming Rubies
 
 - [Topaz](http://topazruby.com), [:octocat:](https://github.com/topazproject) - Ruby coded in Python on top of RPython (the toolchain that powers PyPy) 
 - [GoRuby :octocat:](https://github.com/goruby) - Ruby coded in Go
+- [MagLev](http://maglev.github.io), [:octocat:](https://github.com/MagLev) - a ruby interpreter built on top of the GemStone/S (64-bit) Virtual Machine (VM); note to run MagLev you need a commercial GemStone/S Server license
 
 ## Discontinued / Rest In Peace (R.I.P.) Rubies 
 
