@@ -108,6 +108,13 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
 - [Traveling Ruby](http://phusion.github.io/traveling-ruby), [:octocat:](https://github.com/phusion/traveling-ruby) - self-contained, portable Ruby binaries
 - [Omnibus :octocat:](https://github.com/chef/omnibus) - mini language (that is, domain-specific language (DSL) for installers (that is, binary packages)
 
+## Ruby Gems / Libraries
+
+- [RubyGems](https://rubygems.org), [:octocat:](https://github.com/rubygems)
+- [Awesome Ruby :octocat:](https://github.com/markets/awesome-ruby)
+- [Ruby Gem of the Week Series @ Planet Ruby](http://planetruby.github.io/gems), [:octocat:](https://github.com/planetruby/gems)
+- [Ruby Toolbox](https://www.ruby-toolbox.com)
+
 ## Meta
 
 **License**
