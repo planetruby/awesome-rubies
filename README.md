@@ -25,6 +25,7 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
 - [Topaz](http://topazruby.com), [:octocat:](https://github.com/topazproject) - Ruby coded in Python on top of RPython (the toolchain that powers PyPy) 
 - [GoRuby :octocat:](https://github.com/goruby) - Ruby coded in Go
 - [MagLev](http://maglev.github.io), [:octocat:](https://github.com/MagLev) - a ruby interpreter built on top of the GemStone/S (64-bit) Virtual Machine (VM); note - to run MagLev you need a commercial GemStone/S Server (license)
+- [tinyrb](http://code.macournoyer.com/tinyrb), [:octocat:](https://github.com/macournoyer/tinyrb) - a tiny subset of Ruby with a Lua'esc Virtual Machine (VM)
 
 ## Discontinued / Rest In Peace (R.I.P.) Rubies 
 
