@@ -32,7 +32,9 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
 - [IronRuby](http://ironruby.net), [:octocat:](https://github.com/IronLanguages) - a ruby interpreter built on top of the Microsoft .NET Common Language Runtime (CLR)
 - [MacRuby :octocat:](https://github.com/MacRuby) - a ruby interpreter built on top of Apple's Objective-C/Cocoa library
 - [Ruby Enterprise Edition (REE)](http://www.rubyenterpriseedition.com) - builds on top of MRI Rubies, versions 1.8.X and later
-- [SmallRuby](https://swing.fit.cvut.cz/projects/smallruby) - a ruby interpreter built on top of the Smalltalk/X virtual machine
+- [SmallRuby @ České vysoké učení technické v Praze (ČVUT)](https://swing.fit.cvut.cz/projects/smallruby) - a ruby interpreter built on top of the Smalltalk/X virtual machine
+- [Diamondback Ruby (DRuby) @ University of Maryland (UMD)](https://www.cs.umd.edu/projects/PL/druby) - adds gradual typing (with type inference and type annotations) to Ruby
+
 
 
 ## Ruby-to-JavaScript
@@ -48,6 +50,7 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
 ## Ruby-to-Java
 
 - [Mirah](http://www.mirah.org), [:octocat:](https://github.com/mirah) - formerly known as Duby; compiles to Java bytecode; no (extra) runtime library required
+- [RubyFlux :octocat:](https://github.com/headius/rubyflux) - a ruby to java static compiler
 
 ## Ruby-to-Objective-C/Cocoa
 
@@ -80,6 +83,7 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
 - [Rubype (Ruby+Type) :octocat:](https://github.com/gogotanaka/Rubype) - gradual type checking for Ruby
 - [Typedocs :octocat:](https://github.com/todesking/typedocs) - method type annotations for Ruby
 - [Typecheck :octocat:](https://github.com/plexus/typecheck) - type checking for Ruby methods 
+- [Ruby Type Checker (Rtc) :octocat:](https://github.com/plum-umd/rtc)  
 
 
 ## Ruby Quick References / Cheat Sheets
@@ -112,10 +116,12 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
 
 - [RubyGems](https://rubygems.org), [:octocat:](https://github.com/rubygems) - 100,000+ Gems
 - [Awesome Ruby :octocat:](https://github.com/markets/awesome-ruby)
+- [Awesome ActiveRecord :octocat:](https://github.com/planetruby/awesome-activerecord)
 - [Ruby Gem of the Week Series @ Planet Ruby](http://planetruby.github.io/gems), [:octocat:](https://github.com/planetruby/gems)
 - [Trending Ruby Projects @ GitHub](https://github.com/trending?l=ruby) - Today, This Week, This Month
-- [Alltime Starred Ruby Projects @ GitHub](https://github.com/search?utf8=✓&q=language%3ARuby&type=Repositories&s=stars)
+- [Alltime Starred Ruby Projects @ GitHub](https://github.com/search?utf8=✓&q=language%3ARuby&type=Repositories&s=stars&l=Ruby)
 - [Ruby Toolbox](https://www.ruby-toolbox.com)
+
 
 ## Ruby Community (Events, Questions & Answers, Announcements, etc.)
 
