@@ -106,6 +106,8 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
 
 - [RuboCop :octocat:](https://github.com/bbatsov/rubocop) - a Ruby static code analyzer
 - [reek :octocat:](https://github.com/troessner/reek) - code smell detector for Ruby
+- [RubyCritic :octocat:](https://github.com/whitesmith/rubycritic)
+
 
 ## Ruby Binary Packagers
 
@@ -121,6 +123,7 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
 - [Trending Ruby Projects @ GitHub](https://github.com/trending?l=ruby) - Today, This Week, This Month
 - [Alltime Starred Ruby Projects @ GitHub](https://github.com/search?utf8=✓&q=language%3ARuby&type=Repositories&s=stars&l=Ruby)
 - [Ruby Toolbox](https://www.ruby-toolbox.com)
+- [Gems @ Ruby Bookmarks :octocat:](https://github.com/dreikanter/ruby-bookmarks#gems)
 
 
 ## Ruby Community (Events, Questions & Answers, Announcements, etc.)
