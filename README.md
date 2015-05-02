@@ -8,6 +8,8 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
 
 ---
 
+Contributions welcome. Anything missing? Send in a pull request. Thanks.
+
 ## Major Rubies
 
 - [Ruby](https://www.ruby-lang.org), [:octocat:](https://github.com/ruby)- also known as Matz's Ruby Interpreter (MRI) or CRuby; using the YARV (Yet another Ruby VM) since version 1.9 
