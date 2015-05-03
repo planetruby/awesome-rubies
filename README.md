@@ -85,9 +85,9 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 ## Ruby Type Annotations / Signatures
 
 - [Contracts for Ruby (contracts.ruby) :octocat:](https://github.com/egonSchiele/contracts.ruby), [:gem:](https://rubygems.org/gems/contracts) - a contract is one line of code that you write above a method definition; it validates the arguments to the method, and validates the return value of the method
-- [Rubype (Ruby+Type) :octocat:](https://github.com/gogotanaka/Rubype) - gradual type checking for Ruby
-- [Typedocs :octocat:](https://github.com/todesking/typedocs) - method type annotations for Ruby
-- [Typecheck :octocat:](https://github.com/plexus/typecheck) - type checking for Ruby methods 
+- [Rubype (Ruby+Type) :octocat:](https://github.com/gogotanaka/Rubype), [:gem:](https://rubygems.org/gems/rubype) - gradual type checking for Ruby
+- [Typedocs :octocat:](https://github.com/todesking/typedocs), [:gem:](https://rubygems.org/gems/typedocs) - method type annotations for Ruby
+- [Typecheck :octocat:](https://github.com/plexus/typecheck), [:gem:](https://rubygems.org/gems/typecheck) - type checking for Ruby methods 
 - [Ruby Type Checker (Rtc) :octocat:](https://github.com/plum-umd/rtc)  
 
 
@@ -98,26 +98,26 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ## Ruby Parser / Unparser
 
-- [seattlerb/ruby_parser (RP) :octocat:](https://github.com/seattlerb/ruby_parser) - a ruby parser written in ruby (using racc -- which does by default use a C extension). RP's output is the same as ParseTree's output: s-expressions using ruby's arrays and base types
-- [whitequark/parser :octocat:](https://github.com/whitequark/parser) - a ruby parser written in ruby;  also includes an "unparser" to produce equivalent source code from the parser's Abstract Syntax Tree (AST)s
+- [seattlerb/ruby_parser (RP) :octocat:](https://github.com/seattlerb/ruby_parser), [:gem:](https://rubygems.org/gems/ruby_parser) - a ruby parser written in ruby (using racc -- which does by default use a C extension). RP's output is the same as ParseTree's output: s-expressions using ruby's arrays and base types
+- [whitequark/parser :octocat:](https://github.com/whitequark/parser), [:gem:](https://rubygems.org/gems/parser) - a ruby parser written in ruby;  also includes an "unparser" to produce equivalent source code from the parser's Abstract Syntax Tree (AST)s
 
 ## Ruby Documentation Generators
 
-- [YARD](http://yardoc.org), [:octocat:](https://github.com/lsegal/yard) - Yay! A Ruby Documentation Tool 
-- [SDoc :octocat:](https://github.com/voloko/sdoc) - RDoc generator to build searchable HTML documentation for Ruby code
-- [RDoc :octocat:](https://github.com/rdoc) - RDoc produces HTML and online documentation for Ruby code 
+- [YARD](http://yardoc.org), [:octocat:](https://github.com/lsegal/yard), [:gem:](https://rubygems.org/gems/yard) - Yay! A Ruby Documentation Tool 
+- [SDoc :octocat:](https://github.com/voloko/sdoc), [:gem:](https://rubygems.org/gems/sdoc) - RDoc generator to build searchable HTML documentation for Ruby code
+- [RDoc :octocat:](https://github.com/rdoc), [:gem:](https://rubygems.org/gems/rdoc) - RDoc produces HTML and online documentation for Ruby code 
 
 ## Ruby Linter / Code Checker / Static Code Analyzer
 
-- [RuboCop :octocat:](https://github.com/bbatsov/rubocop) - a Ruby static code analyzer
-- [reek :octocat:](https://github.com/troessner/reek) - code smell detector for Ruby
-- [RubyCritic :octocat:](https://github.com/whitesmith/rubycritic)
+- [RuboCop :octocat:](https://github.com/bbatsov/rubocop), [:gem:](https://rubygems.org/gems/rubocop) - a Ruby static code analyzer
+- [reek :octocat:](https://github.com/troessner/reek), [:gem:](https://rubygems.org/gems/reek) - code smell detector for Ruby
+- [RubyCritic :octocat:](https://github.com/whitesmith/rubycritic), [:gem:](https://rubygems.org/gems/rubycritic)
 
 
 ## Ruby Binary Packagers
 
 - [Traveling Ruby](http://phusion.github.io/traveling-ruby), [:octocat:](https://github.com/phusion/traveling-ruby) - self-contained, portable Ruby binaries
-- [Omnibus :octocat:](https://github.com/chef/omnibus) - mini language (that is, domain-specific language (DSL) for installers (that is, binary packages)
+- [Omnibus :octocat:](https://github.com/chef/omnibus), [:gem:](https://rubygems.org/gems/omnibus) - mini language (that is, domain-specific language (DSL) for installers (that is, binary packages)
 
 ## Ruby Gems / Libraries
 
