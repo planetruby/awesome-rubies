@@ -2,6 +2,8 @@
 
 A collection of awesome Rubies (compilers, interpreters, virtual machines, parsers, doc generators, version managers, etc.) 
 
+Note: :gem: stands for the RubyGems page and :octocat: stands for the GitHub page.
+
 ---
 
 [ANNOUNCEMENT] Looking for awesome Ruby events (meetups, conferences, camps, etc.) from around the world)? See the [Awesome Events List @ Planet Ruby](https://github.com/planetruby/awesome-events). 
@@ -42,8 +44,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ## Ruby-to-JavaScript
 
-- [Opal](http://opalrb.org), [:octocat:](https://github.com/opal) - source-to-source compiler
-- [rubys/ruby2js :octocat:](https://github.com/rubys/ruby2js) - minimal yet extensible Ruby to JavaScript converter 
+- [Opal](http://opalrb.org) - [:octocat:](https://github.com/opal), [:gem:](https://rubygems.org/gems/opal) - source-to-source compiler
+- [rubys/ruby2js :octocat:](https://github.com/rubys/ruby2js), [:gem:](https://rubygems.org/gems/ruby2js) - minimal yet extensible Ruby to JavaScript converter 
 - [RubyJS](http://rubyjs.org/), [:octocat:](https://github.com/rubyjs) - JavaScript standard library based on the Ruby core-lib
 
 ## Ruby-to-C (LLVM)
@@ -82,7 +84,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ## Ruby Type Annotations / Signatures
 
-- [Contracts for Ruby (contracts.ruby) :octocat:](https://github.com/egonSchiele/contracts.ruby) - a contract is one line of code that you write above a method definition; it validates the arguments to the method, and validates the return value of the method
+- [Contracts for Ruby (contracts.ruby) :octocat:](https://github.com/egonSchiele/contracts.ruby), [:gem:](https://rubygems.org/gems/contracts) - a contract is one line of code that you write above a method definition; it validates the arguments to the method, and validates the return value of the method
 - [Rubype (Ruby+Type) :octocat:](https://github.com/gogotanaka/Rubype) - gradual type checking for Ruby
 - [Typedocs :octocat:](https://github.com/todesking/typedocs) - method type annotations for Ruby
 - [Typecheck :octocat:](https://github.com/plexus/typecheck) - type checking for Ruby methods 
