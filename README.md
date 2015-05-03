@@ -28,6 +28,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [GoRuby :octocat:](https://github.com/goruby) - Ruby coded in Go
 - [MagLev](http://maglev.github.io), [:octocat:](https://github.com/MagLev) - a ruby interpreter built on top of the GemStone/S (64-bit) Virtual Machine (VM); note - to run MagLev you need a commercial GemStone/S Server (license)
 - [tinyrb](http://code.macournoyer.com/tinyrb), [:octocat:](https://github.com/macournoyer/tinyrb) - a tiny subset of Ruby with a Lua'esc Virtual Machine (VM)
+- [fruby :octocat:](https://github.com/fruby-lang) - Ruby in Français (French) e.g. classe, défini, si, sinonsi, vrai, faux, fin, etc.
 
 ## Discontinued / Rest In Peace (R.I.P.) Rubies 
 
