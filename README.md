@@ -95,12 +95,12 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 - [Active Support :octocat:](https://github.com/rails/rails/tree/master/activesupport), [:gem:](https://rubygems.org/gems/activesupport)
     - [Active Support Core Extensions @ RailsGuides](http://guides.rubyonrails.org/active_support_core_extensions.html) 
-- [Zucker :octocat:](https://github.com/janlelis/zucker), [:gem:](https://rubygems.org/gems/zucker) - collection of Ruby Refinements; lots of small refinements to sweeten your Ruby code
+- [Zucker :octocat:](https://github.com/janlelis/zucker), [:gem:](https://rubygems.org/gems/zucker) - collection of Ruby refinements; lots of small refinements to sweeten your Ruby code
 
 
 ## Ruby Library Collections
 
-- [SciRuby](http://sciruby.com) - [:octocat:](https://github.com/SciRuby) Tools for Scientific Computing in Ruby e.g. nmatrix, statsample, etc. 
+- [SciRuby](http://sciruby.com) - [:octocat:](https://github.com/SciRuby) - tools for scientific computing in Ruby e.g. nmatrix, statsample, etc. 
 - [Functional Ruby :octocat:](https://github.com/jdantonio/functional-ruby), [:gem:](https://rubygems.org/gems/functional-ruby) - adding functional programming tools to Ruby; inspired by Erlang, Clojure, Haskell, and Functional Java
 - [Concurrent Ruby :octocat:](https://github.com/ruby-concurrency/concurrent-ruby), [:gem:]() - modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more; inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns
 
