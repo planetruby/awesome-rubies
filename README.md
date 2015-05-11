@@ -124,6 +124,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [RubyGems](https://rubygems.org), [:octocat:](https://github.com/rubygems) - 100,000+ Gems
 - [Awesome Ruby :octocat:](https://github.com/markets/awesome-ruby)
 - [Awesome ActiveRecord :octocat:](https://github.com/planetruby/awesome-activerecord)
+- [Awesome Jekyll :octocat: @ Planet Jekyll](https://github.com/planetjekyll/awesome-jekyll)
 - [Awesome Markdown :octocat:](https://github.com/writekit/awesome-markdown)
 - [Ruby Gem of the Week Series @ Planet Ruby](http://planetruby.github.io/gems), [:octocat:](https://github.com/planetruby/gems)
 - [Trending Ruby Projects @ GitHub](https://github.com/trending?l=ruby) - Today, This Week, This Month
