@@ -1,4 +1,13 @@
-# awesome-rubies
+Awesome Series @ Planet Ruby
+
+[Rubies (Virtual Machines, Compilers, ...)](https://github.com/planetruby/awesome-rubies) • 
+[ActiveRecord](https://github.com/planetruby/awesome-activerecord)  •
+[Webframeworks (Micro, Macro, APIs, ...)](https://github.com/planetruby/awesome-webframeworks) •
+[Events (Conferences, Camps, Meetups, ...)](https://github.com/planetruby/awesome-events) •
+[Blogs (News, Opinions, Podcasts, ...)](https://github.com/planetruby/awesome-blogs)
+
+
+# Rubies
 
 A collection of awesome Rubies (compilers, interpreters, virtual machines, parsers, doc generators, version managers, etc.) 
 
@@ -6,7 +15,7 @@ Note: :gem: stands for the RubyGems page and :octocat: stands for the GitHub pag
 
 ---
 
-[ANNOUNCEMENT] Looking for awesome Ruby events (meetups, conferences, camps, etc.) from around the world)? See the [Awesome Events List @ Planet Ruby](https://github.com/planetruby/awesome-events). 
+[ANNOUNCEMENT] Looking for awesome Ruby Gems? See the [Ruby Gems of the Week Series @ Planet Ruby](http://planetruby.github.io/gems).
 
 ---
 
