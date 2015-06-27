@@ -164,6 +164,11 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [Planet Ruby](http://planetruby.herokuapp.com), [:octocat:](https://github.com/planetruby/planet) - online news reader about all things ruby
 
 
+## Thanks
+
+Jesse Cooke • Marcel Hlopko • Sota Yamashtia
+
+
 ## Meta
 
 **License**
