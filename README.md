@@ -11,15 +11,15 @@ Awesome Series @ Planet Ruby
 
 A collection of awesome Rubies (compilers, interpreters, virtual machines, parsers, doc generators, version managers, etc.) 
 
-Note: :gem: stands for the RubyGems page and :octocat: stands for the GitHub page.
-
 ---
 
 [ANNOUNCEMENT] Looking for awesome Ruby Gems? See the [Ruby Gems of the Week Series @ Planet Ruby](http://planetruby.github.io/gems).
 
 ---
 
-Contributions welcome. Anything missing? Send in a pull request. Thanks.
+#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
+
+Note: :gem: stands for the RubyGems page and :octocat: stands for the GitHub page.
 
 ## Major Rubies
 
