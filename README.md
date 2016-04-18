@@ -100,11 +100,15 @@ Note: :gem: stands for the RubyGems page and :octocat: stands for the GitHub pag
 - [Ruby Type Checker (Rtc) :octocat:](https://github.com/plum-umd/rtc)  
 
 
+
 ## Ruby Stdlib (Core) Extensions / Refinements
 
 - [Active Support :octocat:](https://github.com/rails/rails/tree/master/activesupport), [:gem:](https://rubygems.org/gems/activesupport)
     - [Active Support Core Extensions @ RailsGuides](http://guides.rubyonrails.org/active_support_core_extensions.html) 
 - [Zucker :octocat:](https://github.com/janlelis/zucker), [:gem:](https://rubygems.org/gems/zucker) - collection of Ruby refinements; lots of small refinements to sweeten your Ruby code
+- [Powerpack :octocat:](https://github.com/bbatsov/powerpack), [:gem:](https://rubygems.org/gems/powerpack) by Bozhidar Batsov et al  - collection of Ruby core extensions for array, enumerable, hash, numeric, string, etc.
+- [PowerCore :octocat:](https://github.com/arturoherrero/powercore) by Arturo Herrero et al - collection of Ruby core extensions for array, date, fixnum, hash, kernel, object, proc, string, etc.
+- 
 
 
 ## Ruby Library Collections
