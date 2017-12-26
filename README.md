@@ -11,15 +11,31 @@ Awesome Series @ Planet Ruby
 
 A collection of awesome Rubies (compilers, interpreters, virtual machines, parsers, doc generators, version managers, etc.) 
 
----
-
-[ANNOUNCEMENT] Looking for awesome Ruby Gems? See the [Ruby Gems of the Week Series @ Planet Ruby](http://planetruby.github.io/gems).
-
----
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 Note: :gem: stands for the RubyGems page and :octocat: stands for the GitHub page.
+
+
+## 3x3 News
+
+**Q: What's 3x3?**
+
+to be done
+
+**Q: What's OptCarrot?**
+
+to be done
+
+
+### News
+
+- 2017/Dec - [MJIT accepted into Ruby 2.6](https://github.com/ruby/ruby/pull/1782) - MJIT infrastructure means: JIT worker thread, profiler, gcc/clang compiler support, loading function from shared object file, some hooks to ensure JIT does not cause SEGV, etc...
+
+
+
+
+
 
 ## Major Rubies
 
