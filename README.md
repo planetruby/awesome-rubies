@@ -91,7 +91,7 @@ to be done
 
 - [Elixir](http://elixir-lang.org) - Ruby-inspired syntax; a dynamic, functional language for the Erlang VM compiles to BEAM instructions (bytecode)
 
-(*): Elixir syntax is inspired by Ruby. Note, however, Elixir is not a Ruby-to-Erlang compiler, nor is Elixir like Ruby at all semantically.
+(*): Note: Elixir is not a Ruby-to-Erlang compiler. Elixir started off with a Ruby-inspired syntax. The language semantics differ (e.g. dynamic pure functional vs dynamic general pragmatic "multi-paradigm" language).
 
 ## Ruby Version Manager
 
