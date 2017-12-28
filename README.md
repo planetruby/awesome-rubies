@@ -87,9 +87,9 @@ to be done
 
 - [RubyMotion](http://www.rubymotion.com) - commercial compiler for Apple iOS/Cocoa
 
-## Ruby-to-Erlang
+## Ruby Inspired
 
-- [Elixir](http://elixir-lang.org) - Ruby-inspired syntax; a dynamic, functional language for the Erlang VM compiles to BEAM instructions (bytecode)  
+- [Elixir](http://elixir-lang.org) - Ruby-inspired syntax; a dynamic, functional language for the Erlang VM compiles to BEAM instructions (bytecode)
 
 ## Ruby Version Manager
 
