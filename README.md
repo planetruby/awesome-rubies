@@ -46,9 +46,9 @@ to be done
 - [JRuby](http://jruby.org), [:octocat:](https://github.com/jruby) - Ruby on the Java Virtual Machine (JVM)
    - Upcoming: v9.0.0.0
    - 2014: v1.7.x
-- [mruby](http://www.mruby.org), [:octocat:](https://github.com/mruby) - lightweight Ruby; designed for linking and embedding within your application
 - [Rubinius (rbx)](http://rubini.us), [:octocat:](https://github.com/rubinius) - designed for concurrency; uses a low-pause generational garbage collector; core library and tools coded in Ruby
 - [TruffleRuby](https://github.com/graalvm/truffleruby), [:octocat:](https://github.com/graalvm/truffleruby) - A high performance Ruby on top of Truffle and Graal
+- [mruby](http://www.mruby.org), [:octocat:](https://github.com/mruby) - lightweight Ruby; designed for linking and embedding within your application
 
 ## Minor / Upcoming Rubies
 
