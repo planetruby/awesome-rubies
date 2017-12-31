@@ -173,7 +173,7 @@ See the [#Ruby3x3](https://twitter.com/hashtag/Ruby3x3) hashtag on twitter for t
 
 ## Ruby Quick References / Cheat Sheets
 
-- [Ruby QuickRef](http://www.zenspider.com/Languages/Ruby/QuickRef.html) - Language, Standard Library, Tools
+- [Ruby QuickRef](http://www.zenspider.com/ruby/quickref.html) - Language, Standard Library, Tools
 - [Learn Ruby in Y Minutes](http://learnxinyminutes.com/docs/ruby), [:octocat:](https://github.com/adambard/learnxinyminutes-docs) - A whirlwind tour of Ruby - learnruby.rb
 
 ## Ruby Parser / Unparser
