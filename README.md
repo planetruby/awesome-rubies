@@ -136,7 +136,7 @@ See the [#Ruby3x3](https://twitter.com/hashtag/Ruby3x3) hashtag on twitter for t
 
 - [Ruby under a Microscope - An Illustrated Guide to Ruby Internals](http://www.nostarch.com/rum) by Pat Shaughnessy; No Starch Press; 360 pages; Nov 2013
 - [Ruby Performance Optimization: Why Ruby Is Slow, and How to Fix It](https://pragprog.com/book/adrpo/ruby-performance-optimization) by Alexander Dymo; The Pragmatic Programmers 
-- [The Ruby Bibliography](http://rubybib.org), [:octocat:](https://github.com/rubybib)
+- [The Ruby Bibliography](http://rubybib.org), [:octocat:](https://github.com/rubybib/rubybib.org)
 - [Streem Lang :octocat:](https://github.com/matz/streem) - prototype of stream based programming language by Yukihiro Matsumoto
 
 ## Ruby Benchmarks & Tests
