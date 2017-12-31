@@ -25,6 +25,8 @@ _3x3 => Ruby 3 will be 3 times faster in 2020_
 
 Ruby 3 - the next major update of ruby (planed for 2020) will be 3 times (3x) faster than Ruby 2.
 
+Note: The baseline for Ruby3x3 is 2.0 so all the improvements in 2.x will count toward the 3x goal.
+
 
 **Q: What's OptCarrot?**
 
@@ -61,6 +63,7 @@ See the [#Ruby3x3](https://twitter.com/hashtag/Ruby3x3) hashtag on twitter for t
 - [How's Progress on Ruby 3x3?
 ](http://engineering.appfolio.com/appfolio-engineering/2017/12/4/hows-progress-on-ruby-3x3) by Noah Gibbs, Appfolio, Dec 2017
 - [Towards Ruby 3x3 Performance - Introducing RTL and MJIT](http://rubykaigi.org/2017/presentations/vnmakarov.html) by Vladimir Makarov, Red Hat, Sept 2017, Talk @ RubyKaigi 2017 on register transfer language (RTL) and method JIT (MJIT) 
+- [OptCarrot: An Excellent CPU Benchmark for Ruby 3x3](http://engineering.appfolio.com/appfolio-engineering/2017/9/22/optcarrot-an-excellent-cpu-benchmark-for-ruby-3x3) by Noah Gibbs, Appfolio, Sept 2017 
 - [Ruby 3x3: Q&A w/ Matz, Koichi, and Tenderlove](https://blog.heroku.com/ruby-3-by-3) by Jonan Scheffler, Heroku, Nov 2016  - on the guild proposal, just-in-time (JIT) compilation the future of ruby performance
 
 
