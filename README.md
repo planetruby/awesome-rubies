@@ -45,7 +45,7 @@ to be done
    - 2015: 2.3  (Dec/24)
    - 2014: 2.2  (Dec/24)
 - [JRuby](http://jruby.org), [:octocat:](https://github.com/jruby) - Ruby on the Java Virtual Machine (JVM)
-   - Upcoming: v9.0.0.0
+   - 2016: v9.1.0.0
    - 2014: v1.7.x
 - [Rubinius (rbx)](http://rubini.us), [:octocat:](https://github.com/rubinius) - designed for concurrency; uses a low-pause generational garbage collector; core library and tools coded in Ruby
 - [TruffleRuby](https://github.com/graalvm/truffleruby), [:octocat:](https://github.com/graalvm/truffleruby) - A high performance Ruby on top of Truffle and Graal
