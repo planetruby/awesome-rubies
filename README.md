@@ -21,9 +21,9 @@ Note: :gem: stands for the RubyGems page and :octocat: stands for the GitHub pag
 
 **Q: What's 3x3?**
 
-_3x3 => Ruby 3 will be 3x times faster in 2020_ 
+_3x3 => Ruby 3 will be 3 times faster in 2020_ 
 
-Ruby 3 - the next major update of ruby (planed for 2020) will be 3x times faster than Ruby 2.
+Ruby 3 - the next major update of ruby (planed for 2020) will be 3 times (3x) faster than Ruby 2.
 
 
 **Q: What's OptCarrot?**
@@ -35,13 +35,13 @@ An "enjoyable" benchmark for rubies to drive "Ruby3x3: Ruby 3 will be 3 times fa
 github: [mame/optcarrot](https://github.com/mame/optcarrot) 
 
 The goal is a NES (Nintendo Entertainment System) emulator that works at 20 fps (frames/seconds) in Ruby 2.0. 
-An original NES works at 60 fps. If Ruby3x3 succeeds, we can enjoy NES games with ruby!
+An original NES works at 60 fps. If Ruby 3x3 succeeds, we can enjoy NES games with ruby!
 
 NOTE: We do not aim to create a practical NES emulator. 
 There have been already many great emulators available. 
 We recommend you use another emulator if you just want to play a game.
 
-**Benchmark example*
+**Benchmark example**
 
 ![](https://raw.githubusercontent.com/mame/optcarrot/master/doc/benchmark-summary.png)
 
@@ -53,7 +53,7 @@ See [Rubies benchmark with Optcarrot](https://github.com/mame/optcarrot/blob/mas
 
 - 2017/Dec - [MJIT accepted into Ruby 2.6](https://github.com/ruby/ruby/pull/1782) - MJIT infrastructure means: JIT worker thread, profiler, gcc/clang compiler support, loading function from shared object file, some hooks to ensure JIT does not cause SEGV, etc...
 
-See the [#Ruby3x3](https://twitter.com/hashtag/Ruby3x3) hashtag on twitter for the latest news bytes.
+See the [#Ruby3x3](https://twitter.com/hashtag/Ruby3x3) hashtag on twitter for the latest Ruby 3x3 news bytes.
 
 
 ### Articles
