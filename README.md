@@ -71,8 +71,6 @@ See the [#Ruby3x3](https://twitter.com/hashtag/Ruby3x3) hashtag on twitter for t
    - 2016: 2.4  (Dec/24)
    - 2015: 2.3  (Dec/24)
    - 2014: 2.2  (Dec/24)
-   - 2013: 2.1  (Dec/24)
-   - 2012: 2.0  (Feb/24, 2013)
 - [JRuby](http://jruby.org), [:octocat:](https://github.com/jruby) - Ruby on the Java Virtual Machine (JVM)
    - Upcoming: v9.0.0.0
    - 2014: v1.7.x
