@@ -104,7 +104,7 @@ See the [#Ruby3x3](https://twitter.com/hashtag/Ruby3x3) hashtag on twitter for t
 
 ## Ruby-to-C (LLVM)
 
-- [Crystal](http://crystal-lang.org), [:octocat:](https://github.com/manastech/crystal) - compile to machine code; run a ye good olde binary 
+- [Crystal](http://crystal-lang.org), [:octocat:](https://github.com/crystal-lang/crystal) - Ruby-like syntax; statically-typed with type inference; compiles to machine code; run a ye good olde binary
 
 ## Ruby-to-Java
 
