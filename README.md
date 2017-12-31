@@ -59,7 +59,7 @@ See the [#Ruby3x3](https://twitter.com/hashtag/Ruby3x3) hashtag on twitter for t
 ### Articles
 
 - [How's Progress on Ruby 3x3?
-](http://engineering.appfolio.com/appfolio-engineering/2017/12/4/hows-progress-on-ruby-3x3), by Noah Gibbs, Appfolio, Dec 2017
+](http://engineering.appfolio.com/appfolio-engineering/2017/12/4/hows-progress-on-ruby-3x3) by Noah Gibbs, Appfolio, Dec 2017
 
 
 
