@@ -40,6 +40,9 @@ to be done
 ## Major Rubies
 
 - [Ruby](https://www.ruby-lang.org), [:octocat:](https://github.com/ruby)- also known as Matz's Ruby Interpreter (MRI) or CRuby; using the YARV (Yet another Ruby VM) since version 1.9 
+   - 2017: 2.5  (Dec/24)
+   - 2016: 2.4  (Dec/24)
+   - 2015: 2.3  (Dec/24)
    - 2014: 2.2  (Dec/24)
    - 2013: 2.1  (Dec/24)
    - 2012: 2.0  (Feb/24, 2013)
