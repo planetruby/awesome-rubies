@@ -17,6 +17,12 @@ A collection of awesome Rubies (compilers, interpreters, virtual machines, parse
 Note: :gem: stands for the RubyGems page and :octocat: stands for the GitHub page.
 
 
+
+## What are Rubies?
+
+- [CRuby, MRI, JRuby, RubySpec, Rubinius, YARV: A Little Bit of Ruby Naming](http://engineering.appfolio.com/appfolio-engineering/2017/12/28/cruby-mri-jruby-rubyspec-rubinius-yarv-a-little-bit-of-ruby-naming) by Noah Gibbs, Appfolio, Dec 2017
+
+
 ## 3x3 News
 
 **Q: What's 3x3?**
@@ -58,6 +64,7 @@ See the [#Ruby3x3](https://twitter.com/hashtag/Ruby3x3) hashtag on twitter for t
 
 ### Articles
 
+- [Ruby 3 and JIT: Where, When and How Fast?](http://engineering.appfolio.com/appfolio-engineering/2017/12/26/ruby-3-and-jit-where-when-and-how-fast) by Noah Gibbs, Appfolio, Dec 2017
 - [How's Progress on Ruby 3x3?
 ](http://engineering.appfolio.com/appfolio-engineering/2017/12/4/hows-progress-on-ruby-3x3) by Noah Gibbs, Appfolio, Dec 2017
 - [Towards Ruby 3x3 Performance - Introducing RTL and MJIT](http://rubykaigi.org/2017/presentations/vnmakarov.html) by Vladimir Makarov, Red Hat, Sept 2017, Talk @ RubyKaigi 2017 on register transfer language (RTL) and method JIT (MJIT) 
