@@ -25,52 +25,14 @@ Note: :gem: stands for the RubyGems page and :octocat: stands for the GitHub pag
 
 ## 3x3 News
 
-**Q: What's 3x3?**
-
 _3x3 => Ruby 3 will be 3 times faster in 2020_ 
 
 Ruby 3 - the next major update of ruby (planed for 2020) will be 3 times (3x) faster than Ruby 2.
 
 Note: The baseline for Ruby3x3 is 2.0 so all the improvements in 2.x will count toward the 3x goal.
 
+Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](http://planetruby.github.io/calendar/ruby3x3)
 
-**Q: What's OptCarrot?** [:octocat:](https://github.com/mame/optcarrot)
-
-_A Nintendo Entertainment System (NES) emulator written in Ruby - running with 60 frames per seconds (fps) in Ruby 3 in 2020_
-
-An "enjoyable" benchmark for rubies to drive "Ruby 3x3: Ruby 3 will be 3 times faster".
-
-The benchmark is a Nintendo Entertainment System (NES) emulator that works at 20 frames per seconds (fps) in Ruby 2.0. 
-An original NES works at 60 fps. If Ruby 3x3 succeeds, we can enjoy NES games with ruby!
-
-NOTE: We do not aim to create a practical NES emulator. 
-There are many great emulators available today. 
-We recommend using another emulator if you want to play a game.
-
-**Benchmark example**
-
-![](https://raw.githubusercontent.com/mame/optcarrot/master/doc/benchmark-summary.png)
-
-See [Rubies Benchmark with Optcarrot](https://github.com/mame/optcarrot/blob/master/doc/benchmark.md) for the measurement condition and some more charts.
-
-
-
-### News
-
-- 2017/Dec - [MJIT infrastructure accepted into Ruby 2.6](https://github.com/ruby/ruby/pull/1782) - MJIT infrastructure means: JIT worker thread, profiler, gcc/clang compiler support, loading function from shared object file, some hooks to ensure JIT does not cause SEGV, etc...
-
-See the [#Ruby3x3](https://twitter.com/hashtag/Ruby3x3) hashtag on twitter for the latest Ruby 3x3 news bytes.
-
-
-### Articles
-
-- [Ruby 3 and JIT: Where, When and How Fast?](http://engineering.appfolio.com/appfolio-engineering/2017/12/26/ruby-3-and-jit-where-when-and-how-fast) by Noah Gibbs, Appfolio, Dec 2017
-- [How's Progress on Ruby 3x3?
-](http://engineering.appfolio.com/appfolio-engineering/2017/12/4/hows-progress-on-ruby-3x3) by Noah Gibbs, Appfolio, Dec 2017
-- [Towards Ruby 3x3 Performance - Introducing RTL and MJIT](http://rubykaigi.org/2017/presentations/vnmakarov.html) by Vladimir Makarov, Red Hat, Sept 2017, Talk @ RubyKaigi 2017 on register transfer language (RTL) and method JIT (MJIT) 
-- [OptCarrot: An Excellent CPU Benchmark for Ruby 3x3](http://engineering.appfolio.com/appfolio-engineering/2017/9/22/optcarrot-an-excellent-cpu-benchmark-for-ruby-3x3) by Noah Gibbs, Appfolio, Sept 2017 
-- [Running Optcarrot, a Ruby NES emulator, at 150 fps with the GUI!](https://eregon.me/blog/2016/11/28/optcarrot.html) by Benoit Daloze, Oracle Labs @ Johannes Kepler University, Nov 2016
-- [Ruby 3x3: Q&A w/ Matz, Koichi, and Tenderlove](https://blog.heroku.com/ruby-3-by-3) by Jonan Scheffler, Heroku, Nov 2016  - on the guild proposal, just-in-time (JIT) compilation the future of ruby performance
 
 
 ## Major Rubies
