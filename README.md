@@ -48,7 +48,7 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 - [Rubinius (rbx)](http://rubini.us), [:octocat:](https://github.com/rubinius) - designed for concurrency; uses a low-pause generational garbage collector; core library and tools coded in Ruby
 - [TruffleRuby](https://github.com/graalvm/truffleruby), [:octocat:](https://github.com/graalvm/truffleruby) - A high performance Ruby on top of Truffle and Graal
 - [mruby](http://www.mruby.org), [:octocat:](https://github.com/mruby) - lightweight Ruby; designed for linking and embedding within your application
-- [Opal](http://opalrb.org) - [:octocat:](https://github.com/opal), [:gem:](https://rubygems.org/gems/opal) - source-to-source ruby-to-javascript compiler
+- [Opal](http://opalrb.com) - [:octocat:](https://github.com/opal), [:gem:](https://rubygems.org/gems/opal) - source-to-source ruby-to-javascript compiler
 
 
 ## Minor / Upcoming Rubies
@@ -71,7 +71,7 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 
 ## Ruby-to-JavaScript
 
-- [Opal](http://opalrb.org) - [:octocat:](https://github.com/opal), [:gem:](https://rubygems.org/gems/opal) - source-to-source compiler
+- [Opal](http://opalrb.com) - [:octocat:](https://github.com/opal), [:gem:](https://rubygems.org/gems/opal) - source-to-source compiler
 - [rubys/ruby2js :octocat:](https://github.com/rubys/ruby2js), [:gem:](https://rubygems.org/gems/ruby2js) - minimal yet extensible Ruby to JavaScript converter 
 - [RubyJS](http://rubyjs.org/), [:octocat:](https://github.com/rubyjs) - JavaScript standard library based on the Ruby core-lib
 
