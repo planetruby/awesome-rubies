@@ -100,6 +100,7 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 - [rvm](https://rvm.io), [:octocat:](https://github.com/rvm) - Ruby enVironment Manager; 27,000 lines of shell scripts to manage your rubies (overwrites your cd)
 - [rbenv :octocat:](https://github.com/sstephenson/rbenv) - intercepts Ruby commands using shim executables added into your $PATH
 - [chruby :octocat:](https://github.com/postmodern/chruby) - changes the current Ruby
+- [uru](https://bitbucket.org/jonforums/uru/) - multi-platform Ruby environment manager written in Go; you can run it on Windows without Cygwin
 
 ## Ruby Language Research, Papers & Books
 
