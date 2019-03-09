@@ -41,7 +41,7 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
    - 2018: v9.2.0.0 (May/24th) - supports Ruby 2.5
    - 2016: v9.1.0.0 (May/3rd)  - supports Ruby 2.x
    - 2014: v1.7.x  
-- [TruffleRuby :octocat:](https://github.com/oracle/truffleruby) - a high performance Ruby on top of the [Truffle Language Kit](https://github.com/oracle/graal/tree/master/truffle) and GraalVM
+- [TruffleRuby :octocat:](https://github.com/oracle/truffleruby) - a high performance Ruby built with the [Truffle Language Kit](https://github.com/oracle/graal/tree/master/truffle) on the GraalVM
 - [mruby](http://www.mruby.org), [:octocat:](https://github.com/mruby) - lightweight Ruby; designed for linking and embedding within your application
   - [mruby/c :octocat:](https://github.com/mrubyc/mrubyc) - alternative mruby designed for one-chip microprocessors and optimized for small size rather than execution speed e.g. memory size < 40 KiB vs. < 400 KiB 
 - [Opal](http://opalrb.com) - [:octocat:](https://github.com/opal), [:gem:](https://rubygems.org/gems/opal) - source-to-source ruby-to-javascript compiler
@@ -65,6 +65,7 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 - [Ruby Enterprise Edition (REE)](http://www.rubyenterpriseedition.com) - builds on top of MRI Rubies, versions 1.8.X and later
 - [SmallRuby @ České vysoké učení technické v Praze (ČVUT)](https://swing.fit.cvut.cz/projects/smallruby) - a ruby interpreter built on top of the Smalltalk/X virtual machine
 - [Diamondback Ruby (DRuby) @ University of Maryland (UMD)](https://www.cs.umd.edu/projects/PL/druby) - adds gradual typing (with type inference and type annotations) to Ruby
+- [CRuby + Eclipse OMR Preview / Pilot](https://github.com/rubyomr-preview/rubyomr-preview) - an (exxperimental) ruby virtual machine (vm) built with the Eclipse OMR (open multi-language runtime kit / components)
 
 
 
