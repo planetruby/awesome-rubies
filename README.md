@@ -65,7 +65,7 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 - [Ruby Enterprise Edition (REE)](http://www.rubyenterpriseedition.com) - builds on top of MRI Rubies, versions 1.8.X and later
 - [SmallRuby @ České vysoké učení technické v Praze (ČVUT)](https://swing.fit.cvut.cz/projects/smallruby) - a ruby interpreter built on top of the Smalltalk/X virtual machine
 - [Diamondback Ruby (DRuby) @ University of Maryland (UMD)](https://www.cs.umd.edu/projects/PL/druby) - adds gradual typing (with type inference and type annotations) to Ruby
-- [CRuby + Eclipse OMR Preview / Pilot](https://github.com/rubyomr-preview/rubyomr-preview) - an (exxperimental) ruby virtual machine (vm) built with the Eclipse OMR (open multi-language runtime kit / components)
+- [CRuby + Eclipse OMR Preview / Pilot :octocat:](https://github.com/rubyomr-preview/rubyomr-preview) - an (experimental) ruby virtual machine (vm) built with the Eclipse OMR (open multi-language runtime kit / components)
 
 
 
