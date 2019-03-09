@@ -37,22 +37,25 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 
 ## Major Rubies
 
-- [Ruby](https://www.ruby-lang.org), [:octocat:](https://github.com/ruby)- also known as Matz's Ruby Interpreter (MRI) or CRuby; using the YARV (Yet another Ruby VM) since version 1.9 
-   - 2017: 2.5  (Dec/24)
-   - 2016: 2.4  (Dec/24)
-   - 2015: 2.3  (Dec/24)
-   - 2014: 2.2  (Dec/24)
-- [JRuby](http://jruby.org), [:octocat:](https://github.com/jruby) - Ruby on the Java Virtual Machine (JVM)
+- [Ruby](https://www.ruby-lang.org), [:octocat:](https://github.com/ruby)- also known as Matz's Ruby Interpreter (MRI) or CRuby; using the YARV (Yet another Ruby VM) since version 1.9; major releases include: 
+   - 2018: 2.6  (Dec/25th)
+   - 2017: 2.5  (Dec/25th)
+   - 2016: 2.4  (Dec/25th)
+   - 2015: 2.3  (Dec/25th)
+   - 2014: 2.2  (Dec/25th)
+- [JRuby](http://jruby.org), [:octocat:](https://github.com/jruby) - Ruby on the Java Virtual Machine (JVM); major releases include:
    - 2016: v9.1.0.0
    - 2014: v1.7.x
 - [Rubinius (rbx)](http://rubini.us), [:octocat:](https://github.com/rubinius) - designed for concurrency; uses a low-pause generational garbage collector; core library and tools coded in Ruby
 - [TruffleRuby](https://github.com/graalvm/truffleruby), [:octocat:](https://github.com/graalvm/truffleruby) - A high performance Ruby on top of Truffle and Graal
 - [mruby](http://www.mruby.org), [:octocat:](https://github.com/mruby) - lightweight Ruby; designed for linking and embedding within your application
+  - [mruby/c :octocat:](https://github.com/mrubyc/mrubyc) - alternative mruby designed for one-chip microprocessors and optimized for small size rather than execution speed e.g. memory size < 40 KiB vs. < 400 KiB 
 - [Opal](http://opalrb.com) - [:octocat:](https://github.com/opal), [:gem:](https://rubygems.org/gems/opal) - source-to-source ruby-to-javascript compiler
 
 
 ## Minor / Upcoming Rubies
 
+- [sruby :octocat:](https://github.com/s6ruby) - small, smart, secure, safe, solid & sound (s6) ruby - the ruby programming language for contract / transaction scripts on the blockchain world computer
 - [Topaz](http://topazruby.com), [:octocat:](https://github.com/topazproject) - Ruby coded in Python on top of RPython (the toolchain that powers PyPy) 
 - [GoRuby :octocat:](https://github.com/goruby) - Ruby coded in Go
 - [MagLev](http://maglev.github.io), [:octocat:](https://github.com/MagLev) - a ruby interpreter built on top of the GemStone/S (64-bit) Virtual Machine (VM); note - to run MagLev you need a commercial GemStone/S Server (license)
