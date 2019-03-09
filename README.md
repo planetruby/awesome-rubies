@@ -1,18 +1,12 @@
 Awesome Series @ Planet Ruby
 
-[Rubies (Virtual Machines, Compilers, ...)](https://github.com/planetruby/awesome-rubies) • 
-[ActiveRecord](https://github.com/planetruby/awesome-activerecord)  •
-[Webframeworks (Micro, Macro, APIs, ...)](https://github.com/planetruby/awesome-webframeworks) •
-[Events (Conferences, Camps, Meetups, ...)](https://github.com/planetruby/awesome-events) •
-[Blogs (News, Opinions, Podcasts, ...)](https://github.com/planetruby/awesome-blogs)
-
-
 # Rubies
 
 A collection of awesome Rubies (compilers, interpreters, virtual machines, parsers, doc generators, version managers, etc.) 
 
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
+
 
 Note: :gem: stands for the RubyGems page and :octocat: stands for the GitHub page.
 
@@ -47,7 +41,7 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
    - 2018: v9.2.0.0 (May/24th) - supports Ruby 2.5
    - 2016: v9.1.0.0 (May/3rd)  - supports Ruby 2.x
    - 2014: v1.7.x  
-- [TruffleRuby](https://github.com/graalvm/truffleruby), [:octocat:](https://github.com/graalvm/truffleruby) - A high performance Ruby on top of Truffle and Graal
+- [TruffleRuby :octocat:](https://github.com/oracle/truffleruby) - A high performance Ruby on top of the [Truffle Language Kit](https://github.com/oracle/graal/tree/master/truffle) and GraalVM (by Oracle Labs)
 - [mruby](http://www.mruby.org), [:octocat:](https://github.com/mruby) - lightweight Ruby; designed for linking and embedding within your application
   - [mruby/c :octocat:](https://github.com/mrubyc/mrubyc) - alternative mruby designed for one-chip microprocessors and optimized for small size rather than execution speed e.g. memory size < 40 KiB vs. < 400 KiB 
 - [Opal](http://opalrb.com) - [:octocat:](https://github.com/opal), [:gem:](https://rubygems.org/gems/opal) - source-to-source ruby-to-javascript compiler
@@ -106,7 +100,7 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 - [rbenv :octocat:](https://github.com/sstephenson/rbenv) - intercepts Ruby commands using shim executables added into your $PATH
 - [chruby :octocat:](https://github.com/postmodern/chruby) - changes the current Ruby
 - [uru](https://bitbucket.org/jonforums/uru/) - multi-platform Ruby environment manager written in Go; you can run it on Windows without Cygwin
-- [asdf-vm](https://asdf-vm.com) - extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+- [asdf-vm :octocat:](https://github.com/asdf-vm/asdf-ruby) - extendable version manager with support for Ruby and many other languages
 
 ## Ruby Language Research, Papers & Books
 
