@@ -44,9 +44,9 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
    - 2015: 2.3  (Dec/25th)
    - 2014: 2.2  (Dec/25th)
 - [JRuby](http://jruby.org), [:octocat:](https://github.com/jruby) - Ruby on the Java Virtual Machine (JVM); major releases include:
-   - 2016: v9.1.0.0
-   - 2014: v1.7.x
-- [Rubinius (rbx)](http://rubini.us), [:octocat:](https://github.com/rubinius) - designed for concurrency; uses a low-pause generational garbage collector; core library and tools coded in Ruby
+   - 2018: v9.2.0.0 (May/24th) - supports Ruby 2.5
+   - 2016: v9.1.0.0 (May/3rd)  - supports Ruby 2.x
+   - 2014: v1.7.x  
 - [TruffleRuby](https://github.com/graalvm/truffleruby), [:octocat:](https://github.com/graalvm/truffleruby) - A high performance Ruby on top of Truffle and Graal
 - [mruby](http://www.mruby.org), [:octocat:](https://github.com/mruby) - lightweight Ruby; designed for linking and embedding within your application
   - [mruby/c :octocat:](https://github.com/mrubyc/mrubyc) - alternative mruby designed for one-chip microprocessors and optimized for small size rather than execution speed e.g. memory size < 40 KiB vs. < 400 KiB 
@@ -57,10 +57,12 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 
 - [sruby :octocat:](https://github.com/s6ruby) - small, smart, secure, safe, solid & sound (s6) ruby - the ruby programming language for contract / transaction scripts on the blockchain world computer
 - [Topaz](http://topazruby.com), [:octocat:](https://github.com/topazproject) - Ruby coded in Python on top of RPython (the toolchain that powers PyPy) 
+- [Rubinius (rbx)](http://rubini.us), [:octocat:](https://github.com/rubinius) - designed for concurrency; uses a low-pause generational garbage collector; core library and tools coded in Ruby
 - [GoRuby :octocat:](https://github.com/goruby) - Ruby coded in Go
 - [MagLev](http://maglev.github.io), [:octocat:](https://github.com/MagLev) - a ruby interpreter built on top of the GemStone/S (64-bit) Virtual Machine (VM); note - to run MagLev you need a commercial GemStone/S Server (license)
 - [tinyrb](http://code.macournoyer.com/tinyrb), [:octocat:](https://github.com/macournoyer/tinyrb) - a tiny subset of Ruby with a Lua'esc Virtual Machine (VM)
 - [fruby :octocat:](https://github.com/fruby-lang) - Ruby in Français (French) e.g. classe, défini, si, sinonsi, vrai, faux, fin, etc.
+
 
 ## Discontinued / Rest In Peace (R.I.P.) Rubies 
 
@@ -189,7 +191,7 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 ## Ruby Community (Events, Questions & Answers, Announcements, etc.)
 
 - [Ruby @ Reddit](http://www.reddit.com/r/ruby)
-- [Awesome Ruby Events :octocat:](https://github.com/planetruby/awesome-events) - meetups, conferences, camps, etc. from around the world 
+- [Awesome Ruby Events :octocat:](https://github.com/planetruby/calendar) - meetups, conferences, camps, etc. from around the world 
 - [Planet Ruby](http://planetruby.herokuapp.com), [:octocat:](https://github.com/planetruby/planet) - online news reader about all things ruby
 
 
