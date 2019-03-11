@@ -121,6 +121,7 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 - [Typedocs :octocat:](https://github.com/todesking/typedocs), [:gem:](https://rubygems.org/gems/typedocs) - method type annotations for Ruby
 - [Typecheck :octocat:](https://github.com/plexus/typecheck), [:gem:](https://rubygems.org/gems/typecheck) - type checking for Ruby methods 
 - [Ruby Type Checker (Rtc) :octocat:](https://github.com/plum-umd/rtc)  
+- [Sorbet from Stripe](https://sorbet.run/) - Ruby typechecker
 
 
 
