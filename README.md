@@ -124,7 +124,7 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 
 Upcoming
 
-- [Sorbet](https://sorbet.run) - a ruby typechecker from Stripe; not yet open source 
+- [Sorbet](https://sorbet.run) [:gem:](https://rubygems.org/gems/sorbet) - a ruby typechecker from Stripe; [not yet open source but eventually promised after more internal use](https://sorbet.run/talks/StrangeLoop2018) 
 
 
 
