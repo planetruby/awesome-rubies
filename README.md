@@ -50,7 +50,7 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 ## Minor / Upcoming Rubies
 
 - [sruby :octocat:](https://github.com/s6ruby) - small, smart, secure, safe, solid & sound (s6) ruby - the ruby programming language for contract / transaction scripts on the blockchain world computer
-- [Topaz](http://topazruby.com), [:octocat:](https://github.com/topazproject) - Ruby coded in Python on top of RPython (the toolchain that powers PyPy) 
+- [Topaz](http://docs.topazruby.com), [:octocat:](https://github.com/topazproject) - Ruby coded in Python on top of RPython (the toolchain that powers PyPy) 
 - [Rubinius (rbx)](http://rubini.us), [:octocat:](https://github.com/rubinius) - designed for concurrency; uses a low-pause generational garbage collector; core library and tools coded in Ruby
 - [GoRuby :octocat:](https://github.com/goruby) - Ruby coded in Go
 - [tinyrb](http://code.macournoyer.com/tinyrb), [:octocat:](https://github.com/macournoyer/tinyrb) - a tiny subset of Ruby with a Lua'esc Virtual Machine (VM)
