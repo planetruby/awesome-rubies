@@ -53,7 +53,6 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 - [Topaz](http://topazruby.com), [:octocat:](https://github.com/topazproject) - Ruby coded in Python on top of RPython (the toolchain that powers PyPy) 
 - [Rubinius (rbx)](http://rubini.us), [:octocat:](https://github.com/rubinius) - designed for concurrency; uses a low-pause generational garbage collector; core library and tools coded in Ruby
 - [GoRuby :octocat:](https://github.com/goruby) - Ruby coded in Go
-- [MagLev](http://maglev.github.io), [:octocat:](https://github.com/MagLev) - a ruby interpreter built on top of the GemStone/S (64-bit) Virtual Machine (VM); note - to run MagLev you need a commercial GemStone/S Server (license)
 - [tinyrb](http://code.macournoyer.com/tinyrb), [:octocat:](https://github.com/macournoyer/tinyrb) - a tiny subset of Ruby with a Lua'esc Virtual Machine (VM)
 - [fruby :octocat:](https://github.com/fruby-lang) - Ruby in Français (French) e.g. classe, défini, si, sinonsi, vrai, faux, fin, etc.
 
@@ -62,6 +61,7 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 
 - [IronRuby](http://ironruby.net), [:octocat:](https://github.com/IronLanguages) - a ruby interpreter built on top of the Microsoft .NET Common Language Runtime (CLR)
 - [MacRuby :octocat:](https://github.com/MacRuby) - a ruby interpreter built on top of Apple's Objective-C/Cocoa library
+- [MagLev](https://maglev.github.io), [:octocat:](https://github.com/MagLev) - a ruby interpreter built on top of the GemStone/S (64-bit) Virtual Machine (VM)
 - [Ruby Enterprise Edition (REE)](http://www.rubyenterpriseedition.com) - builds on top of MRI Rubies, versions 1.8.X and later
 - [SmallRuby @ České vysoké učení technické v Praze (ČVUT)](https://swing.fit.cvut.cz/projects/smallruby) - a ruby interpreter built on top of the Smalltalk/X virtual machine
 - [Diamondback Ruby (DRuby) @ University of Maryland (UMD)](https://www.cs.umd.edu/projects/PL/druby) - adds gradual typing (with type inference and type annotations) to Ruby
