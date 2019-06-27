@@ -54,7 +54,7 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 - [Rubinius (rbx)](http://rubini.us), [:octocat:](https://github.com/rubinius) - designed for concurrency; uses a low-pause generational garbage collector; core library and tools coded in Ruby
 - [GoRuby :octocat:](https://github.com/goruby) - Ruby coded in Go
 - [tinyrb](http://code.macournoyer.com/tinyrb), [:octocat:](https://github.com/macournoyer/tinyrb) - a tiny subset of Ruby with a Lua'esc Virtual Machine (VM)
-- [fruby :octocat:](https://github.com/fruby-lang) - Ruby in Français (French) e.g. classe, défini, si, sinonsi, vrai, faux, fin, etc.
+- [fruby :octocat:](https://github.com/fruby-lang) - Ruby en Français (French) e.g. classe, défini, si, sinonsi, vrai, faux, fin, etc.
 
 
 ## Discontinued / Rest In Peace (R.I.P.) Rubies 
