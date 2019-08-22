@@ -37,7 +37,7 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
    - 2016: 2.4  (Dec/25th)
    - 2015: 2.3  (Dec/25th)
    - 2014: 2.2  (Dec/25th)
-- [Fullstaq Ruby](https://fullstaqruby.org), [:octocat:](https://github.com/fullstaq-labs/fullstaq-ruby-server-edition) - an MRI-based Ruby distribution (fully open source) that's optimized for server production use cases; compiled with the `Jemalloc` and `malloc_trim` patches, allowing lower memory usage and higher performance; by Hongli Lai (Phusion) et al 
+- [Fullstaq Ruby](https://fullstaqruby.org), [:octocat:](https://github.com/fullstaq-labs/fullstaq-ruby-server-edition) - an MRI-based Ruby distribution (fully open source) that's optimized for servers; compiled with the `Jemalloc` and `malloc_trim` patches, allowing lower memory usage and higher performance; by Hongli Lai (Phusion) et al 
 - [JRuby](https://www.jruby.org), [:octocat:](https://github.com/jruby) - Ruby on the Java Virtual Machine (JVM); major releases include:
    - 2018: v9.2.0.0 (May/24th) - supports Ruby 2.5
    - 2016: v9.1.0.0 (May/3rd)  - supports Ruby 2.x
