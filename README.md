@@ -67,7 +67,7 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 - [SmallRuby @ České vysoké učení technické v Praze (ČVUT)](https://swing.fit.cvut.cz/projects/smallruby) - a ruby interpreter built on top of the Smalltalk/X virtual machine
 - [Diamondback Ruby (DRuby) @ University of Maryland (UMD)](https://www.cs.umd.edu/projects/PL/druby) - adds gradual typing (with type inference and type annotations) to Ruby
 - [CRuby + Eclipse OMR Preview / Pilot :octocat:](https://github.com/rubyomr-preview/rubyomr-preview) - an (experimental) ruby virtual machine (vm) built with the Eclipse OMR (open multi-language runtime kit / components)
-
+- [Cardinal](https://github.com/parrot/cardinal) is a “Ruby compiler for [Parrot](http://parrot.org/) Virtual Machine” (related to Perl 6).
 
 
 ## Ruby-to-JavaScript
