@@ -32,6 +32,7 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 ## Major Rubies
 
 - [Ruby](https://www.ruby-lang.org), [:octocat:](https://github.com/ruby) - also known as Matz's Ruby Interpreter (MRI) or CRuby; using the YARV (Yet another Ruby VM) since version 1.9; major releases include: 
+   - 2019: 2.7  (Dec/25th)
    - 2018: 2.6  (Dec/25th)
    - 2017: 2.5  (Dec/25th)
    - 2016: 2.4  (Dec/25th)
@@ -46,7 +47,7 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 - [mruby](http://www.mruby.org), [:octocat:](https://github.com/mruby) - lightweight Ruby; designed for linking and embedding within your application
   - [mruby/c :octocat:](https://github.com/mrubyc/mrubyc) - alternative mruby designed for one-chip microprocessors and optimized for small size rather than execution speed e.g. memory size < 40 KiB vs. < 400 KiB 
 - [Opal](http://opalrb.com) - [:octocat:](https://github.com/opal), [:gem:](https://rubygems.org/gems/opal) - source-to-source ruby-to-javascript compiler
-- [DragonRuby ($40+)](https://dragonruby.itch.io) - a (cross-platform) commercial game toolkit / toolchain (based on a newer variant of  the secret closed-source RubyMotion) for Nintendo Switch, XBOX One, PlayStation 4 and others; by Ryan C. Gordon, Amir Rajan, Aaron Lasseigne et al
+- [DragonRuby ($40+)](https://dragonruby.itch.io) - a (cross-platform) commercial game toolkit / toolchain (based on a newer variant of  the secret closed-source [RubyMotion](http://www.rubymotion.com)) for Nintendo Switch, XBOX One, PlayStation 4 and others; by Ryan C. Gordon, Amir Rajan, Aaron Lasseigne et al
 
 
 ## Minor / Upcoming Rubies
@@ -119,6 +120,7 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 
 ## Ruby Type Annotations / Signatures
 
+- [Sorbet](https://sorbet.org) [:octocat:](https://github.com/sorbet/sorbet), [:gem:](https://rubygems.org/gems/sorbet) - a fast, powerful typechecker designed for Ruby
 - [Contracts for Ruby (contracts.ruby) :octocat:](https://github.com/egonSchiele/contracts.ruby), [:gem:](https://rubygems.org/gems/contracts) - a contract is one line of code that you write above a method definition; it validates the arguments to the method, and validates the return value of the method
 - [Rubype (Ruby+Type) :octocat:](https://github.com/gogotanaka/Rubype), [:gem:](https://rubygems.org/gems/rubype) - gradual type checking for Ruby
 - [Typedocs :octocat:](https://github.com/todesking/typedocs), [:gem:](https://rubygems.org/gems/typedocs) - method type annotations for Ruby
