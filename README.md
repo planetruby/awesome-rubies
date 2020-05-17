@@ -67,13 +67,18 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 ## Ruby-to-Ruby
 
 - [Ruby Next :octocat:](https://github.com/ruby-next/ruby-next), [:gem:](https://rubygems.org/gems/steep) - a ruby-to-ruby-compiler - "transpiler" - and a collection of polyfills for supporting the latest and upcoming ruby features (APIs and syntax) in older versions and alternate rubies
-- [pragmas :octocat:](https://github.com/s6ruby/pragmas) - a ruby-to-ruby "search and replace" library that lets you use your own language syntax pragmas - turn on the future today or add your own ideas for easy (re)use for everyone - let's evolve the ruby language together by experimenting in the wild in a pragma(tic) way
+- [pragmas :octocat:](https://github.com/s6ruby/pragmas) - a ruby-to-ruby "search and replace" library that lets you use your own language syntax pragmas - turn on the future today or add your own ideas for easy (re)use for everyone - let's evolve the ruby language together by experimenting in the wild in a pragma(tic) way  - early alpha
 
 ## Ruby-to-JavaScript
 
 - [Opal](http://opalrb.com) - [:octocat:](https://github.com/opal), [:gem:](https://rubygems.org/gems/opal) - source-to-source compiler
 - [rubys/ruby2js :octocat:](https://github.com/rubys/ruby2js), [:gem:](https://rubygems.org/gems/ruby2js) - minimal yet extensible Ruby to JavaScript converter 
 - [RubyJS](http://rubyjs.org/), [:octocat:](https://github.com/rubyjs) - JavaScript standard library based on the Ruby core-lib
+
+## Ruby-to-WebAssembly (WASM)
+
+- [Prism  :octocat:](https://github.com/prism-rb/prism), [:gem:](https://rubygems.org/gems/prism-cli) - a framework that helps you make frontend web applications with ruby and web assembly (wasm); uses mruby and emscripten to compile ruby code to web assembly; incl. a runtime for working with the DOM and events - early alpha
+
 
 ## Ruby-to-C (LLVM)
 
