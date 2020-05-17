@@ -112,8 +112,8 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 
 ## Ruby Type Annotations / Signatures
 
-- [Official Ruby::Signature :octocat:](https://github.com/ruby/ruby-signature) - official home of the Ruby Type Signature language (`.rbi`); incl. parser, the syntax and the semantics for type signatures (typesigs)
-  - [Ruby Type Signature Language (RBI) Syntax Documentation Cheat Sheet](https://github.com/ruby/ruby-signature/blob/master/doc/syntax.md)
+- [Official Ruby::Signature :octocat:](https://github.com/ruby/rbs) - official home of the Ruby Type Signature language (`.rbi`); incl. parser, the syntax and the semantics for type signatures (typesigs)
+  - [Ruby Type Signature Language (RBI) Syntax Documentation Cheat Sheet](https://github.com/ruby/rbs/blob/master/docs/syntax.md)
 - [Steep :octocat:](https://github.com/soutaro/steep), [:gem:](https://rubygems.org/gems/steep) - gradual typing for ruby  
 - [Sorbet](https://sorbet.org) [:octocat:](https://github.com/sorbet/sorbet), [:gem:](https://rubygems.org/gems/sorbet) - a fast, powerful typechecker designed for Ruby from Stripe
   - More Sorbet Projects:
