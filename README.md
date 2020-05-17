@@ -64,6 +64,10 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 - [CRuby + Eclipse OMR Preview / Pilot :octocat:](https://github.com/rubyomr-preview/rubyomr-preview) - an (experimental) ruby virtual machine (vm) built with the Eclipse OMR (open multi-language runtime kit / components)
 - [Cardinal :octocat:](https://github.com/parrot/cardinal) - a ruby compiler for the [Parrot virtual machine](http://parrot.org) (related to Perl 6)
 
+## Ruby-to-Ruby
+
+- [Ruby Next :octocat:](https://github.com/ruby-next/ruby-next), [:gem:](https://rubygems.org/gems/steep) - a ruby-to-ruby-compiler - "transpiler" - and a collection of polyfills for supporting the latest and upcoming ruby features (APIs and syntax) in older versions and alternate rubies
+- [pragmas :octocat:](https://github.com/s6ruby/pragmas) - a ruby-to-ruby "search and replace" library that lets you use your own language syntax pragmas - turn on the future today or add your own ideas for easy (re)use for everyone - let's evolve the ruby language together by experimenting in the wild in a pragma(tic) way
 
 ## Ruby-to-JavaScript
 
