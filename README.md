@@ -77,7 +77,7 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 
 ## Ruby-to-WebAssembly (WASM)
 
-- [Prism  :octocat:](https://github.com/prism-rb/prism), [:gem:](https://rubygems.org/gems/prism-cli) - a framework that helps you make frontend web applications with ruby and web assembly (wasm); uses mruby and emscripten to compile ruby code to web assembly; incl. a runtime for working with the DOM and events - early alpha
+- [Prism  :octocat:](https://github.com/prism-rb/prism), [:gem:](https://rubygems.org/gems/prism-cli) - a framework for building client-side web apps with ruby and web assembly (wasm); uses mruby and emscripten to compile ruby code to web assembly that runs inside the browser; incl. a runtime for working with the browser's document object model (DOM) and events - early alpha
 
 
 ## Ruby-to-C (LLVM)
