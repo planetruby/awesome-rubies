@@ -112,18 +112,23 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 
 ## Ruby Type Annotations / Signatures
 
-- [Sorbet](https://sorbet.org) [:octocat:](https://github.com/sorbet/sorbet), [:gem:](https://rubygems.org/gems/sorbet) - a fast, powerful typechecker designed for Ruby
+- [Official Ruby::Signature :octocat:](https://github.com/ruby/ruby-signature) - official home of the Ruby Type Signature language (`.rbi`); incl. parser, the syntax and the semantics for type signatures (typesigs)
+  - [Ruby Type Signature Language (RBI) Syntax Documentation Cheat Sheet](https://github.com/ruby/ruby-signature/blob/master/doc/syntax.md)
+- [Steep :octocat:](https://github.com/soutaro/steep), [:gem:](https://rubygems.org/gems/steep) - gradual typing for ruby  
+- [Sorbet](https://sorbet.org) [:octocat:](https://github.com/sorbet/sorbet), [:gem:](https://rubygems.org/gems/sorbet) - a fast, powerful typechecker designed for Ruby from Stripe
+  - More Sorbet Projects:
+    - [sorbet-typed :octocat:](https://github.com/sorbet/sorbet-typed) - a central repository for sharing type definitions for ruby gems
+    - [sorbet-rails :octocat:](https://github.com/chanzuckerberg/sorbet-rails) - a set of tools to make sorbet work with rails seamlessly
+    - [Sord :octocat:](https://github.com/AaronC81/sord) - a tool to generate Ruby Signature language (`.rbi`) files from YARD documentation
+    - [Parlour :octocat:](https://github.com/AaronC81/parlour) - a versatile Ruby Signature language (`.rbi`) generator and plugin system
+    - [sorbet-progress :octocat:](https://github.com/jaredbeck/sorbet-progress) - measure your progress as you adopt sorbet, stay motivated!
 - [Contracts for Ruby (contracts.ruby) :octocat:](https://github.com/egonSchiele/contracts.ruby), [:gem:](https://rubygems.org/gems/contracts) - a contract is one line of code that you write above a method definition; it validates the arguments to the method, and validates the return value of the method
 - [Rubype (Ruby+Type) :octocat:](https://github.com/gogotanaka/Rubype), [:gem:](https://rubygems.org/gems/rubype) - gradual type checking for Ruby
 - [Typedocs :octocat:](https://github.com/todesking/typedocs), [:gem:](https://rubygems.org/gems/typedocs) - method type annotations for Ruby
 - [Typecheck :octocat:](https://github.com/plexus/typecheck), [:gem:](https://rubygems.org/gems/typecheck) - type checking for Ruby methods 
 - [Ruby Type Checker (Rtc) :octocat:](https://github.com/plum-umd/rtc)  
 
-Upcoming
-
-- [Sorbet](https://sorbet.run) [:gem:](https://rubygems.org/gems/sorbet) - a ruby typechecker from Stripe; [not yet open source but eventually promised after more internal use](https://sorbet.run/talks/StrangeLoop2018) 
-
-
+For more see the [Awesome Types page »](https://github.com/typesigs/awesome-types) 
 
 ## Ruby Stdlib (Core) Extensions / Refinements
 
