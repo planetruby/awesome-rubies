@@ -43,7 +43,7 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 
 ## Minor / Upcoming Rubies
 
-- [Artichoke Ruby](https://artichoke.github.io/artichoke), [:octocat:](https://github.com/artichoke/artichoke) by Ryan Lopopolo et al - a ruby made with rust  
+- [Artichoke Ruby](https://artichoke.github.io/artichoke), [:octocat:](https://github.com/artichoke/artichoke) by Ryan Lopopolo et al - a ruby "wrapper" made with rust that compiles to WebAssembly; by default uses mruby as "backend"   
 - [ruruby :octocat:](https://github.com/sisshiki1969/ruruby) - a ruby made with rust (w/ hand-written parser); built from scratch in "100% pure rust", that is, no dependency on any other ruby engine in C such as CRuby (MRI), mruby, etc.  
 - [sruby :octocat:](https://github.com/s6ruby) - small, smart, secure, safe, solid & sound (s6) ruby - the ruby programming language for contract / transaction scripts on the blockchain world computer
 - [Topaz](http://docs.topazruby.com), [:octocat:](https://github.com/topazproject) - Ruby coded in Python on top of RPython (the toolchain that powers PyPy) 
