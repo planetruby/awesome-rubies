@@ -79,6 +79,14 @@ Find out more @ [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News? »](htt
 
 - [Prism  :octocat:](https://github.com/prism-rb/prism), [:gem:](https://rubygems.org/gems/prism-cli) - a framework for building client-side web apps with ruby and web assembly (wasm); uses mruby and emscripten to compile ruby code to web assembly that runs inside the browser; incl. a runtime for working with the browser's document object model (DOM) and events - early alpha
 
+## Ruby <3 Rust
+
+_Native Ruby Extensions with Rust_
+
+- [Helix](https://usehelix.com/), [:octocat:](https://github.com/tildeio/helix) - lets you write ruby classes in rust without having to write the glue code yourself; offload performance-critical code to rust without leaving your ruby workflow 
+- [Rutie :octocat:](https://github.com/danielpclark/rutie) - lets you use ruby in rust or rust in ruby; the missing tie between ruby and rust
+- [Ruru :octocat:](https://github.com/d-unseductable/ruru/) - rust + ruby (ruru); replace your ruby code with rust, method by method, class by class; as simple as ruby, as efficient as rust 
+
 
 ## Ruby-to-C (LLVM)
 
