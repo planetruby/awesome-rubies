@@ -143,7 +143,7 @@ _Native Ruby Extensions with Rust_
 - [Rubype (Ruby+Type) :octocat:](https://github.com/gogotanaka/Rubype), [:gem:](https://rubygems.org/gems/rubype) - gradual type checking for Ruby
 - [Typedocs :octocat:](https://github.com/todesking/typedocs), [:gem:](https://rubygems.org/gems/typedocs) - method type annotations for Ruby
 - [Typecheck :octocat:](https://github.com/plexus/typecheck), [:gem:](https://rubygems.org/gems/typecheck) - type checking for Ruby methods 
-- [Ruby Type Checker (Rtc) :octocat:](https://github.com/plum-umd/rtc)  
+- [RDL :octocat:](https://github.com/tupl-tufts/rdl), [:gem:](https://rubygems.org/gems/rdl/) - a lightweight system for adding types, type checking, and contracts to Ruby. In RDL, types can be used to decorate methods
 
 For more see the [Awesome Types page »](https://github.com/typesigs/awesome-types) 
 
